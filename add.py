@@ -1,7 +1,7 @@
 '''
-=============SON OF GENISYS=====================
+=============Kalpabanuja=====================
 Astra members adding script
-Coded by a dumbass kid- github.com/Cryptonian007
+Coded by a dumbass kid- github.com/kalpabanuja20041
 Apologies if anything in the code is dumb :)
 Copy with credits
 ************************************************
@@ -54,7 +54,7 @@ def banner():
     ]
     for char in b:
         print(f'{random.choice(colors)}{char}{rs}')
-    #print('=============SON OF GENISYS==============')
+    #print('=============Kalpa banuja==============')
     print(f'{lg}   Version: {w}1.2{lg} | Author: {w}Cryptonian{rs}\n')
 
 
